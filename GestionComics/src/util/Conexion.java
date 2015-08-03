@@ -25,7 +25,7 @@ public class Conexion {
                     + "EditorialESP TEXT,"
                     + "Superheroe TEXT,"
                     + "Titulo TEXT,"
-                    + "Coleccion TEXT"
+                    + "Coleccion TEXT,"
                     + "Genero TEXT,"
                     + "Paginas TEXT,"
                     + "FechaEdicion TEXT,"

@@ -835,7 +835,7 @@ public class Deseados extends javax.swing.JFrame {
         for (i = 0; i < tomos.length; i++) {
             insertarBoton(tomos, i);
         }
-
+        c.cerrar();
     }
 
     private void btnComicActionPerformed(ActionEvent evt) {
@@ -1597,6 +1597,7 @@ public class Deseados extends javax.swing.JFrame {
                 }
             } 
         }
+        c.cerrar();
     }
 
 }
