@@ -729,6 +729,7 @@ public class FichaComic extends javax.swing.JFrame {
         cbxEditorialUSA.setSelectedItem(tomo.getEditorialUSA());
         txtEnlace.setText(tomo.getLink());
         cbxGenero.setSelectedItem(tomo.getGenero());
+        txtColeccion.setText(tomo.getColeccion());
         txtGuionista.setText(tomo.getGuionista());
         txtPaginas.setText(tomo.getPaginas());
         txtPortada.setText(tomo.getPortada());
